@@ -21,7 +21,7 @@ echo -e "\e[1;32m created directories"
 echo
 
 #my text string
-echo "<h3>Welcome to reginah.tech, We do amazing things</h3>" > /data/web_static/releases/test/index.html
+echo "<h3>Welcome to cherubea.tech, We do amazing things</h3>" > /data/web_static/releases/test/index.html
 echo -e "\e[1;32m Added text string\e[0m"
 echo
 
